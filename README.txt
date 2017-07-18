@@ -1,13 +1,8 @@
-
-TITLE: 
-Fitness - 100% Fully Responsive Free HTML5 Bootstrap Template
-
 AUTHOR:
-DESIGNED & DEVELOPED by FeeeHTML5.co
+DESIGNED & DEVELOPED by Vishal Srinivasan
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://technology.vishalsrini.com/
+Twitter: http://twitter.com/vishalsrini
 
 
 CREDITS:
